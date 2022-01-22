@@ -1,9 +1,12 @@
 /********** Base styles **********/
 * {
     box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   h1 {
     margin-bottom: 15px;
+    text-align: center;
+    margin: 50;
   }
   
   p {
